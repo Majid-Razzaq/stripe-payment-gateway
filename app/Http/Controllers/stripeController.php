@@ -42,6 +42,6 @@ class stripeController extends Controller
     }
 
     public function success(){
-        return "Thanks for your order. You have just complete your payment.";
+        return "Thank you for your order. You have just complete your payment.";
     }
 }
