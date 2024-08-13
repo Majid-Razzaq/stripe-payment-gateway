@@ -2,7 +2,7 @@
 
 ## Stripe Payment Method
 
-## Admin Panel Options
+## How to add Stripe keys to your .env file?
 -  Login to your stripe account and copy the STRIPE_KEY and STRIPE_SECRET
 -  open .env file add this
 ## STRIPE_KEY=pk_test_xxxxxxxxxxxxxxxxxxx
